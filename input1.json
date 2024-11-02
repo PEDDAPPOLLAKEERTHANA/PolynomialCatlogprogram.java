@@ -1,0 +1,30 @@
+Enter the JSON input:
+{
+    "keys": {
+        "n": 5,
+        "k": 3
+    },
+    "1": {
+        "base": "10",
+        "value": "2"
+    },
+    "2": {
+        "base": "10",
+        "value": "3"
+    },
+    "3": {
+        "base": "10",
+        "value": "5"
+    },
+    "4": {
+        "base": "10",
+        "value": "7"
+    },
+    "5": {
+        "base": "10",
+        "value": "11"
+    }
+}
+
+The constant term c is: 20
+
