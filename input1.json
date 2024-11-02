@@ -1,6 +1,5 @@
 Enter the JSON input:
 {
-    {
     "keys": {
         "n": 4,
         "k": 3
@@ -17,13 +16,10 @@ Enter the JSON input:
         "base": "10",
         "value": "12"
     },
-    "6": {
+    "4": {
         "base": "4",
         "value": "213"
     }
-
-}
-    
 }
 
 The constant term c is: -7
